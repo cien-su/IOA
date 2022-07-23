@@ -65,6 +65,8 @@ However, the other common form of data is the distance of each two cities rather
     - Tmin: the minimum temparatur
     - L: iteration times in inernal circles
     - q: the rate to decrease temperature, between 0~1
+
+What needs to be noticed that if the diagram is not completed, please use a big number rather than infinity to describe the distance of two unreachable points.
     
 > SA_SP.py
 
