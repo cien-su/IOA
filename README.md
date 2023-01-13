@@ -75,6 +75,3 @@ To be continued...
 ### xxx
 
 ## Others
-
-## Backwords
-For any other questions, my mail is 2847724403@qq.com
